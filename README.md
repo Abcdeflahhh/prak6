@@ -11,8 +11,8 @@ Matkul: Bahasa Pemrograman
 ![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/b37b5b4b143f6ff0231e70f67ddd7ee45557f096/Image/Screenshot%20from%202024-11-26%2014-22-32.png)
 
 # Latihan 1.py
-```
-import math
+
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.43_27cc2b48.jpg)
 
 a = lambda x: x**2
 b = lambda x, y: math.sqrt(x**2 + y**2)
@@ -22,19 +22,19 @@ d = lambda s: "".join(set(s))
 print("lambda a(5):", a(5))
 print("lambda b(3, 4):", b(3, 4))
 print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
-print("lambda d('hello andre'):", d("andre"))
+print("lambda d('hello aflah'):", d("tamam"))
 ```
 Code Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/fb30d09c48ba044f5734748e64a032b2b7695309/Image/latihan1.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.37.51_cdbea27c.jpg)
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/fb30d09c48ba044f5734748e64a032b2b7695309/Image/Screenshot%20from%202024-11-26%2014-31-30.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.37.59_08c39e37.jpg)
 
 # Tugas Praktikum
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/51960f32fea99470328d5bd2c9917200d7532dc6/Image/Screenshot%20from%202024-11-26%2014-40-14.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.57_f13ab9d8.jpg)
 
 # Tugas praktikum.py
 ```
@@ -229,8 +229,12 @@ Jika pengguna memasukkan pilihan selain angka `1 hingga 5`, program akan menampi
 
 Code Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/6094a3460583a3ad6af9360343409bdc57f2a020/Image/tugas.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.38.26_f7eb08a3.jpg)
 
 Hasil Program Tersebut:
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/6094a3460583a3ad6af9360343409bdc57f2a020/Image/Screenshot%20from%202024-11-26%2015-31-05.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.39.40_a774cf30.jpg)
+
+Hasil Flowchart :
+
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2010.17.21_ffb2bc0e.jpg)
