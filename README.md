@@ -8,7 +8,7 @@ Matkul: Bahasa Pemrograman
 
 # Latihan 1
 
-![gambar](https://github.com/andreanbadeh/Praktikum-6-Lab6/blob/b37b5b4b143f6ff0231e70f67ddd7ee45557f096/Image/Screenshot%20from%202024-11-26%2014-22-32.png)
+![gambar](https://github.com/Abcdeflahhh/prak6/blob/a5fdd9ebc835f6116fb9221f1e6438bd1e25f345/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.43_27cc2b48.jpg)
 
 # Latihan 1.py
 
