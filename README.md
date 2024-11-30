@@ -6,13 +6,11 @@ NIM: 312410280
 
 Matkul: Bahasa Pemrograman
 
-# Latihan 1
-
-![gambar](https://github.com/Abcdeflahhh/prak6/blob/a5fdd9ebc835f6116fb9221f1e6438bd1e25f345/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.43_27cc2b48.jpg)
-
 # Latihan 1.py
 
 ![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.43_27cc2b48.jpg)
+
+import math
 
 a = lambda x: x**2
 b = lambda x, y: math.sqrt(x**2 + y**2)
@@ -23,7 +21,7 @@ print("lambda a(5):", a(5))
 print("lambda b(3, 4):", b(3, 4))
 print("lambda c(1, 2, 3, 4, 5):", c(1, 2, 3, 4, 5))
 print("lambda d('hello aflah'):", d("tamam"))
-```
+
 Code Program Tersebut:
 
 ![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.37.51_cdbea27c.jpg)
@@ -37,7 +35,7 @@ Hasil Program Tersebut:
 ![gambar](https://github.com/Abcdeflahhh/prak6/blob/dd5c9885e34634702ce7e70e9598f36c6b0d4756/image/Gambar%20WhatsApp%202024-11-30%20pukul%2013.35.57_f13ab9d8.jpg)
 
 # Tugas praktikum.py
-```
+
 def tambah():
     """Menambahkan data mahasiswa baru ke dalam daftar."""
     nama = input("Masukkan nama mahasiswa: ")
@@ -93,7 +91,7 @@ if __name__ == "__main__":
         print("5. Keluar")
 
         pilihan = input("Pilih menu (1-5): ")
-
+        
         if pilihan == '1':
             tambah()
         elif pilihan == '2':
@@ -109,7 +107,7 @@ if __name__ == "__main__":
             break
         else:
             print("Pilihan tidak valid.")
-```
+
 # Penjelasan Code
 ```def tambah():
     """Menambahkan data mahasiswa baru ke dalam daftar."""
